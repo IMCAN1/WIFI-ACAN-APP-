@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WIFI_FIX", "WIFI_FIX\WIFI_FIX.csproj", "{6C51B914-E072-4A93-AB9F-9A775999E326}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F85A9C3-7344-4F0E-8454-C4CCE803099B}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WiFi ACAN", "WiFi ACAN\WiFi ACAN.vdproj", "{C70081F8-073F-47D8-9B59-F9305E5DF26A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C51B914-E072-4A93-AB9F-9A775999E326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C51B914-E072-4A93-AB9F-9A775999E326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C51B914-E072-4A93-AB9F-9A775999E326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C51B914-E072-4A93-AB9F-9A775999E326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C70081F8-073F-47D8-9B59-F9305E5DF26A}.Debug|Any CPU.ActiveCfg = Debug
+		{C70081F8-073F-47D8-9B59-F9305E5DF26A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15205E31-2398-49D9-8DB8-8D8E28C83CB4}
+	EndGlobalSection
+EndGlobal
