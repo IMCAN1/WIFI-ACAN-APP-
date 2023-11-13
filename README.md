@@ -2,7 +2,7 @@
 
 WiFi ACAN เป็นเครื่องมือที่ออกแบบมาเพื่อแก้ไขและลดปัญหาการลดปิงที่สูงบนเราเตอร์ ASUS และอุปกรณ์ที่คล้ายกัน หากคุณมีปัญหาการหน่วงเวลาในการใช้งานกับเราเตอร์ ASUS หรืออุปกรณ์ที่คล้ายกัน WiFi ACAN อาจเป็นคำตอบที่คุณกำลังมองหา
 
-![APP](https://media.discordapp.net/attachments/1054296668008370196/1172565538619281518/ACAN.gif?ex=6560c7c1&is=654e52c1&hm=57a8e18bacea2ec4fa79611a5323c105d0372234b4852654fc9f5b0212b5c963&=&width=309&height=437)
+![APP](https://media.discordapp.net/attachments/1054296668008370196/1173593428400029826/ACAN.gif?ex=6564850d&is=6552100d&hm=d0d18c67bb8d9fab0d6e34ab324a6135c55bb9ef8a146b63fef18ec541f8f261&=&width=468&height=662)
 
 ## วิธีการทำงาน
 
